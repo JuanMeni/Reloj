@@ -1,13 +1,13 @@
-let contador = 1;
+// let contador = 1;
 
-function mostrarPublicidad(){
-    if(contador === 5){
-        // quiero detener el intervalo
-        window.clearInterval(codigo);
-    }
-    document.write('<p>Ahora muestro publicidad</p>');
-    contador++
-}
+// function mostrarPublicidad(){
+//     if(contador === 5){
+//         // quiero detener el intervalo
+//         window.clearInterval(codigo);
+//     }
+//     document.write('<p>Ahora muestro publicidad</p>');
+//     contador++
+// }
 
 // ejecutar una funcion pasado cierto tiempo en milisegundos
 
@@ -23,7 +23,7 @@ function mostrarPublicidad(){
 // setTimeout(()=>{document.write('<p>Ahora muestro publicidad</p>');},3500);
 
 // ejecutar una funcion cada cierto tiempo en milisegundos
-let codigo = setInterval(mostrarPublicidad,3000);
+// let codigo = setInterval(mostrarPublicidad,3000);
 
 
 

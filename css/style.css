@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+}
+
+.fechaHora{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2em;
+}
+
+/* efecto neon */
+.azul{
+    color: white;
+    text-shadow: 0 0 5px #7bacff, 
+    0 0 10px #7bacff,
+    0 0 15px #7bacff,
+    0 0 20px #7bacff,
+    0 0 25px #7bacff,
+    0 0 30px #7bacff,
+    0 0 40px #7bacff,
+    0 0 50px #7bacff,
+    0 0 60px #7bacff,
+    0 0 70px #7bacff,
+    0 0 80px #7bacff,
+    0 0 90px #7bacff,
+    0 0 100px #7bacff
+}
+.rosa{
+    color: white;
+    text-shadow: 0 0 5px #ff7be2, 
+    0 0 10px #ff7be2,
+    0 0 15px #ff7be2,
+    0 0 20px #ff7be2,
+    0 0 25px #ff7be2,
+    0 0 30px #ff7be2,
+    0 0 40px #ff7be2,
+    0 0 50px #ff7be2,
+    0 0 60px #ff7be2,
+    0 0 70px #ff7be2,
+    0 0 80px #ff7be2,
+    0 0 90px #ff7be2,
+    0 0 100px #ff7be2
+}
+
+.verde{
+    color: white;
+    text-shadow: 0 0 5px rgb(69, 222, 14), 
+    0 0 10px rgb(69, 222, 14),
+    0 0 15px rgb(69, 222, 14),
+    0 0 20px rgb(69, 222, 14),
+    0 0 25px rgb(69, 222, 14),
+    0 0 30px rgb(69, 222, 14),
+    0 0 40px rgb(69, 222, 14),
+    0 0 50px rgb(69, 222, 14),
+    0 0 60px rgb(69, 222, 14),
+    0 0 70px rgb(69, 222, 14),
+    0 0 80px rgb(69, 222, 14),
+    0 0 90px rgb(69, 222, 14),
+    0 0 100px rgb(69, 222, 14)
+}
+
+
