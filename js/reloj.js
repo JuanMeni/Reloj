@@ -54,3 +54,8 @@ if(horas<10){
 let horaReloj = document.querySelector('#hora');
 horaReloj.innerHTML = `${horas}:${minutos}:${segundos}` 
 },1000)
+
+function cambiarColor(color){
+    let seccion = document.getElementsByClassName('fechaHora');
+    seccion[0].className = `fechaHora ${color}`
+}
